@@ -1,5 +1,20 @@
 # Blind-Touch: Homomorphic Encryption-Based Distributed Neural Network Inference for Privacy-Preserving Fingerprint Authentication
 
+Official repository for **Blind-Touch: Homomorphic Encryption-Based Distributed Neural Network Inference for Privacy-Preserving Fingerprint Authentication(AAAI'24)**
+by 
+Hyunmin Choi<sup>1,2</sup>, Simon S. Woo<sup>2 </sup>, and Hyoungshick Kim<sup>2** </sup>.
+
+<sup>1</sup> NAVER Cloud, South Korea
+<sup>2</sup> Sungkyunkwan University, South Korea
+
+** Corresponding author
+
+You can read the paper here: 
+[ArXiv Link](https://arxiv.org/abs/2312.11575))
+[AAAI Proceedings]((https://ojs.aaai.org/index.php/AAAI/article/view/30200))
+
+
+
 - This repository provides source code to try using homomorphic encryption-based fingerprint authentication.
 - The authentication server is a cluster structure designed to allow authentication of 5,000 fingerprint data in approximately 650 milliseconds. (Based on Current Model)
 - Currently, we do not use various preprocessing techniques separately, but we use the API of the Simple OpenCV library and imgaug library. The preprocessing process will be updated later through continuous research.

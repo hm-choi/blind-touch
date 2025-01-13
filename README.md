@@ -10,7 +10,7 @@ Hyunmin Choi<sup>1,2</sup>, Simon S. Woo<sup>2 </sup>, and Hyoungshick Kim<sup>2
 ** Corresponding author
 
 You can read the paper here: 
-[ArXiv Link](https://arxiv.org/abs/2312.11575))
+[ArXiv Link](https://arxiv.org/abs/2312.11575)
 [AAAI Proceedings](https://ojs.aaai.org/index.php/AAAI/article/view/30200)
 
 
